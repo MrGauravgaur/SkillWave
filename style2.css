@@ -57,8 +57,6 @@ nav a:hover {
 
 /* Main content styles */
 main {
-    width: 800px;
-    margin: 20px auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
@@ -68,9 +66,13 @@ main {
 h1 {
     font-size: 28px;
     margin-bottom: 20px;
-    color: #333;
+    color: #fff;
 }
-
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #f8f8f8;
+}
 
 /* Add more styles for other sections (current weather, weather forecast, detailed weather, map) as needed */
 
